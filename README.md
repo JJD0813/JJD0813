@@ -14,6 +14,7 @@ I'm a Business Intelligence Analyst passionate about data storytelling, analytic
 ---
 
 ## 📂 Featured Projects
+Here are a few selected projects showcasing my skills in SQL, data visualization, and spreadsheet analysis. You can find more in the repositories section.
 
 ### 🔍 [Zuber SQL Project](https://github.com/JJD0813/Zuber-SQL-Project)
 A multi-step SQL analysis project exploring how weather impacts ride-sharing activity for a fictional company, Zuber, in Chicago.
