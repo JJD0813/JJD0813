@@ -1,43 +1,41 @@
-# Hi there, I'm Jamarree Daniels 👋
+# Hi, I'm Jamarree 👋
 
-I'm a **Business Intelligence Analyst** with a background in SaaS sales and a passion for transforming raw data into powerful business insights. I specialize in **data storytelling** and building clear, actionable dashboards and reports that help decision-makers move with confidence.
-
----
-
-## 🌟 About Me
-
-- 🏢 Based in Dallas, TX
-- 📊 Transitioned from sales into analytics to follow my love for data and strategic thinking
-- 📓 Currently focused on BI projects using **SQL, Excel, Tableau, and Power BI**
-- ✨ Passionate about simplifying complex information and helping organizations thrive with data
+I'm a Business Intelligence Analyst passionate about data storytelling, analytics, and solving business problems using tools like SQL, Tableau, Excel, and Power BI. I recently completed the TripleTen BI Analyst Bootcamp and have applied my skills to real-world datasets across various projects.
 
 ---
 
-## 📅 Recent Projects
-
-- **[Superstore Dashboard Analysis](https://github.com/JJD0813/Superstore-Dashboard-Analysis)**  
-  Sales, profit, and return analysis using Tableau
-
-- **[Data Visualization Project](https://github.com/JJD0813/Data-Visualization-Project)**  
-  Insights into advertising effectiveness and product return rates
-
-More projects are listed on my main repository page above!
+## 🛠️ Skills
+- SQL (PostgreSQL, pgAdmin)
+- Tableau, Power BI
+- Excel & Google Sheets
+- Data Visualization & Dashboarding
+- Git & GitHub
 
 ---
 
-## 🌐 Let's Connect
+## 📂 Featured Projects
 
-- 👤 [LinkedIn](https://www.linkedin.com/in/jamarree-daniels/)  
-- ✉️ Reach me at: **Jamarree123@gmail.com**
+### 🔍 [Zuber SQL Project](https://github.com/JJD0813/Zuber-SQL-Project)
+A multi-step SQL analysis project exploring how weather impacts ride-sharing activity for a fictional company, Zuber, in Chicago.
+
+### 📊 [Shopify App Power BI Dashboard](https://github.com/JJD0813/Shopify-App-Analysis)
+Analyzed user engagement, ratings, and app categories on the Shopify App Store using Power BI and DAX.
+
+### 📈 [Superstore Tableau Visualization](https://github.com/JJD0813/Superstore-Dashboard-Analysis)
+Created interactive Tableau dashboards to uncover trends in profit, losses, and return rates to support data-driven decision-making.
+
+### 📘 [NYC Airbnb Spreadsheet Analysis](https://github.com/JJD0813/NYC-Airbnb-Spreadsheet-Analysis)
+Used Google Sheets to analyze NYC Airbnb data and identify the most attractive neighborhoods and property types for vacation rentals.
+
+### 📉 [Data Visualization with Tableau](https://github.com/JJD0813/Data-Visualization-Project)
+Analyzed Superstore data using Tableau to reveal key business insights including product return rates and profitability across regions.
 
 ---
 
-## 🚀 Fun Facts
-
-- ☕ Recovering coffee addict
-- 📹 I enjoy building dashboards as much as I love breaking down game film
-- 🧬 Always down to chat data, analytics careers, or how I pivoted into tech from a nontraditional background
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/jamarree-daniels)
+- [GitHub](https://github.com/JJD0813)
 
 ---
 
-Thanks for stopping by my profile! Let's connect and grow together in the data world. 🧰
+Thanks for visiting my profile! Feel free to check out any of the project repositories listed above or reach out if you'd like to collaborate.
