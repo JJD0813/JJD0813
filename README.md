@@ -21,7 +21,7 @@ I'm a **Business Intelligence Analyst** with a background in SaaS sales and a pa
 - **[Data Visualization Project](https://github.com/JJD0813/Data-Visualization-Project)**  
   Insights into advertising effectiveness and product return rates
 
-More projects coming soon focused on A/B testing, customer segmentation, and operational KPIs!
+More projects are listed on my main repository page above!
 
 ---
 
