@@ -13,7 +13,7 @@ I'm a Business Intelligence Analyst passionate about data storytelling, analytic
 
 ---
 
-## 📂 Featured Projects
+## 📂 Selected Projects
 Here are a few selected projects showcasing my skills in SQL, data visualization, and spreadsheet analysis. You can find more in the repositories section.
 
 ### 🔍 [Zuber SQL Project](https://github.com/JJD0813/Zuber-SQL-Project)
@@ -39,4 +39,4 @@ Analyzed Superstore data using Tableau to reveal key business insights including
 
 ---
 
-Thanks for visiting my profile! Feel free to check out any of the project repositories listed above or reach out if you'd like to collaborate.
+Thanks for visiting my profile! Feel free to check out any of the project repositories or reach out if you'd like to collaborate.
