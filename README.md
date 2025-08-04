@@ -28,9 +28,6 @@ Created interactive Tableau dashboards to uncover trends in profit, losses, and 
 ### 📘 [NYC Airbnb Spreadsheet Analysis](https://github.com/JJD0813/NYC-Airbnb-Spreadsheet-Analysis)
 Used Google Sheets to analyze NYC Airbnb data and identify the most attractive neighborhoods and property types for vacation rentals.
 
-### 📉 [Data Visualization with Tableau](https://github.com/JJD0813/Data-Visualization-Project)
-Analyzed Superstore data using Tableau to reveal key business insights including product return rates and profitability across regions.
-
 ---
 
 ## 📫 Contact Me
